@@ -130,7 +130,7 @@ bt_salir.place(x=558, y=7)
 # ------------------
 frame_resultados = Frame(ventana_principal)
 frame_resultados.config(bg="blue", width=780, height=120)
-frame_resultados.place(x=10,y=380)
+frame_resultados.place(x=10,y=390)
 
 # area de texto para resultados
 t_resultados = Text(frame_resultados, width=50, height=3)
